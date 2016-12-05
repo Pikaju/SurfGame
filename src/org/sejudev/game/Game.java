@@ -37,7 +37,7 @@ public class Game {
 	public void init() {
 		try {
 			Display.setDisplayMode(new DisplayMode(1280, 720));
-			Display.setTitle("Sejudev Engine");
+			Display.setTitle("Surf Game");
 			Display.setResizable(true);
 			Display.setVSyncEnabled(true);
 			Display.create();
